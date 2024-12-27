@@ -1,6 +1,6 @@
 # DDAE
 
-Unconditional generation as SSL [main article](https://arxiv.org/pdf/2303.09769.pdf)
+Unconditional generation as SSL method [article](https://arxiv.org/pdf/2303.09769.pdf)
 
 ## Team
 
